@@ -27,7 +27,11 @@ HƯỚNG DẪN SỬ DỤNG TOOL FIGHT.ID MULTI-THREAD
 
 3. LỆNH CÀI ĐẶT THƯ VIỆN VÀ CHẠY TOOL (COPY DÁN VÀO CMD/TERMINAL)
 ----------------------------------------------------------------
-npm install axios readline-sync https-proxy-agent uuid && node index.js
+npm install axios readline-sync https-proxy-agent uuid 
+
+lệnh Chạy tool
+
+node main.js
 
 4. LƯU Ý QUAN TRỌNG
 ----------------------------------------------------------------
